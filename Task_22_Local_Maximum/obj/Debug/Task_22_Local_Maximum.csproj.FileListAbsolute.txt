@@ -1,0 +1,8 @@
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_22_Local_Maximum\Task_22_Local_Maximum\bin\Debug\Task_22_Local_Maximum.exe.config
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_22_Local_Maximum\Task_22_Local_Maximum\bin\Debug\Task_22_Local_Maximum.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_22_Local_Maximum\Task_22_Local_Maximum\bin\Debug\Task_22_Local_Maximum.pdb
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_22_Local_Maximum\Task_22_Local_Maximum\obj\Debug\Task_22_Local_Maximum.csproj.AssemblyReference.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_22_Local_Maximum\Task_22_Local_Maximum\obj\Debug\Task_22_Local_Maximum.csproj.SuggestedBindingRedirects.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_22_Local_Maximum\Task_22_Local_Maximum\obj\Debug\Task_22_Local_Maximum.csproj.CoreCompileInputs.cache
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_22_Local_Maximum\Task_22_Local_Maximum\obj\Debug\Task_22_Local_Maximum.exe
+C:\Users\danii\YandexDisk\Файлы на компьютер\Gamedev\ЯЮниор\Задачи\Task_22_Local_Maximum\Task_22_Local_Maximum\obj\Debug\Task_22_Local_Maximum.pdb
